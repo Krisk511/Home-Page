@@ -1,9 +1,8 @@
 # Hello, I'm Krish
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KrisBoston)
-<a href="https://linkedin.com/in/KrisBoston" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://uml.joinhandshake.com/profiles/20884429"><img src="https://img.shields.io/badge/-Handshake-FFDB00?style=for-the-badge&logo=handshake&logoColor=white"/></a>
-<a href="https://www.credly.com/users/krishna-k.e56c6787"><img src="https://img.shields.io/badge/-Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white"/></a>
-<a href="https://learn.microsoft.com/en-us/users/kanagarayerkrishna-5085/transcript/73nqwu5xyqomkm5"><img src="https://img.shields.io/badge/-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KrisKana)
+[![Handshake](https://img.shields.io/badge/-Handshake-FFDB00?style=for-the-badge&logo=handshake&logoColor=white)](https://uml.joinhandshake.com/profiles/20884429)
+[![Credly](https://img.shields.io/badge/-Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/krishna-k.e56c6787)
+[![Microsoft](https://img.shields.io/badge/-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/kanagarayerkrishna-5085/transcript/73nqwu5xyqomkm5)
 
 ## About me
 ### Welcome to my little corner of the internet! 
