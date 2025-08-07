@@ -1,4 +1,5 @@
 # Hello, I'm Krish
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KrisBoston)
 <a href="https://linkedin.com/in/KrisBoston" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://uml.joinhandshake.com/profiles/20884429"><img src="https://img.shields.io/badge/-Handshake-FFDB00?style=for-the-badge&logo=handshake&logoColor=white"/></a>
 <a href="https://www.credly.com/users/krishna-k.e56c6787"><img src="https://img.shields.io/badge/-Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white"/></a>
